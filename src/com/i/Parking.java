@@ -54,6 +54,7 @@ public class Parking implements ParkingLot {
 	        car2.displayCarInfo();
 	        parking.calculateFee(car1);
 	        parking.calculateFee(car2);
+	        //sample comment
 	    }
 }
 
