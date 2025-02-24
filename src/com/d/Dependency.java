@@ -5,6 +5,9 @@ interface Database {
  void connect();
 }
 
+
+//added a comment
+
 //Step 2: Implement different database classes
 class MySQLDatabase implements Database {
  public void connect() {
